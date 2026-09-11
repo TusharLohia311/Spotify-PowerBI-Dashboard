@@ -298,4 +298,4 @@ https://github.com/TusharLohia311
 
 LinkedIn
 
-https://www.linkedin.com/in/tushar-lohia-b919b8349
+linkedin.com/in/tushar-lohia-ja311
