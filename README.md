@@ -292,10 +292,5 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 
 # 📬 Contact
 
-GitHub
-
-https://github.com/TusharLohia311
-
-LinkedIn
-
-linkedin.com/in/tushar-lohia-ja311
+- LinkedIn: [linkedin.com/in/tushar-lohia-ja311](https://www.linkedin.com/in/tushar-lohia-ja311)
+- GitHub: [github.com/TusharLohia311](https://github.com/TusharLohia311)
